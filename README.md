@@ -1,3 +1,8 @@
+Developed by **BISWAYAN MAZUMDER**
+
+
+
+
 Developing an energy monitoring app using Flutter that fetches data from MongoDB is a fascinating project that combines mobile app development with database integration. Flutter is an open-source UI software development toolkit created by Google, while MongoDB is a NoSQL database known for its flexibility and scalability. This combination allows for the creation of a cross-platform app with a robust backend.
 
 **Flutter in Energy Monitoring App:**
